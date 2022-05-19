@@ -1,0 +1,26 @@
+h1 {
+    color: blue;
+}
+
+body {
+
+    background-color: #b6cc8b
+}
+
+.login-div {
+padding: 15px;
+border: solid 1px #c0c0c0;
+box-shadow 0 0 2px #777777
+display: inline-block;
+}
+
+.login-div input {
+
+    display: block;
+}
+
+.login-div input {
+
+    display: block;
+    margin bottom: 7px;
+}
